@@ -1,0 +1,6 @@
+0 Nothing
+1 Banana
+2 Plastic bottle
+3 Snack
+4 Paper
+5 Glass bottle
